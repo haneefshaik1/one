@@ -2,7 +2,6 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width"> <!-- Bug: Missing initial-scale=1.0 -->
     <title>ShopEasy - Your One-Stop Online Store</title>
     <link rel="stylesheet" href="style.css"> <!-- Bug: Incorrect file name (should be styles.css) -->
