@@ -1,6 +1,7 @@
-<!DOCTYPE html> <!-- Bug: Missing DOCTYPE declaration type -->
+ <!-- Bug: Missing DOCTYPE declaration type -->
 <html lang="en">
 <head>
+    <meta charset="UTF-8">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width"> <!-- Bug: Missing initial-scale=1.0 -->
     <title>ShopEasy - Your One-Stop Online Store</title>
