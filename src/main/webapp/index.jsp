@@ -1,4 +1,4 @@
- <!-- Bug: Missing DOCTYPE declaration type -->
+<!DOCTYPE html> <!-- Bug: Missing DOCTYPE declaration type -->
 <html lang="en">
 <head>
     <meta charset="UTF-8">
